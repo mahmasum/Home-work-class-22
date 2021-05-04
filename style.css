@@ -1,0 +1,130 @@
+.sub-header{
+    background: #a4c639;
+}
+.sub-header span{
+    color: white;
+    display: inline-block;
+    margin-top: 17px;
+}
+.sub-header p{
+    display: inline-block;
+    padding-left: 5px;
+}
+.sub-header ul{
+    text-align: right;
+}
+
+.sub-header li{
+    display: inline-block;
+    padding: 15px 20px;
+}
+.sub-header li a{
+    text-decoration: none;
+    display: inline-block;
+    color: white;
+}
+a:hover{
+    background-color: #ddd;
+}
+.baner{
+    background-image: url('./assets/images/slide_01.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top center;
+    padding: 300px;
+    background-attachment: fixed;
+}
+.logo{
+    text-decoration: none;
+    color: white;
+    display: inline-block;
+    transform: translate( -195px,-258px);
+
+}
+.header ul{
+    text-align: right;
+}
+.header li{
+    display: inline-block;
+    padding: 0 15px;
+    transform: translate( 205px,-258px);
+}
+.header li a{
+    display: inline-block;
+    color: #a4c639;
+    text-decoration: none;
+}
+.about-section{
+    margin-top: 30px;
+}
+.ab1{
+    margin-bottom: 50px;
+}
+.services{
+    margin-top: 80px;
+    margin-bottom: 100px;
+}
+.section-heading{
+    margin-bottom: 60px;
+}
+.filled-button{
+    text-decoration: none;
+    color: white;
+    background-color: blue;
+    padding: 10px;
+    display: inline-block;
+    border-radius: 5px;
+
+}
+.more-info{
+    margin-bottom: 100px;
+}
+.foter{
+    background: #232323;
+    color: white;
+    padding-top: 40px;
+}
+
+.social-icons li{
+    display: inline-block;
+    transform: translateX(-35px);
+    
+}
+.social-icons a{
+    padding: 0px 5px;
+    text-decoration: none;
+    display: inline-block;
+    color: white;
+}
+.ul h4{
+    padding-left: 32px;
+}
+.ul li{
+    display: block;
+    padding: 5px 0;
+    
+}
+.ul a{
+    color: white;
+    text-decoration: none;
+}
+.ad h4{
+    padding-left: 28px;
+}
+.ad li{
+    display: block;
+    padding: 5px 0;
+}
+.ad a{
+    color: white;
+    text-decoration: none;
+}
+.sub-footer{
+    background: rgba(35, 35, 35,.7);
+    padding: 15px 20px;
+    color: #ddd;
+}
+.sub-footer p{
+    display: inline-block;
+}
+
