@@ -27,7 +27,7 @@ a:hover{
     background-color: #ddd;
 }
 .baner{
-    background-image: url('./assets/images/slide_01.jpg');
+    background-image: url('./slide_01.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: top center;
